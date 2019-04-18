@@ -33,9 +33,8 @@ spring:
   #spring.datasource.useGlobalDataSourceStat=true
   servlet:
      multipart:
-#           enable: true
-           maxFileSize: 20Mb
-           maxRequestSize: 20Mb
+           maxFileSize: 20MB
+           maxRequestSize: 20MB
 
 #logging:
 #  config: classpath:logback.xml
