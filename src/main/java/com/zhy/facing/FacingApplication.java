@@ -10,7 +10,7 @@ public class FacingApplication {
 
     @RequestMapping("/")
     @ResponseBody
-    public String home(){
+    public String home() {
         return "Hello,this is facing!";
     }
 
