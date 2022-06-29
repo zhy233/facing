@@ -102,7 +102,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.15</version>
+            <version>4.1.1</version>
         </dependency>
         <!--是java开发者用到的一个组件，这个组件可以完美解决读取excel时报错的问题，加载后就可以进行word、excel文档的读取操作了-->
         <dependency>
